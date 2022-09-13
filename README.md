@@ -6,7 +6,7 @@
 reXera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). Xera currently has a limited number of features which are listed below:
 
 ![AppVeyor](https://img.shields.io/badge/Licence-GPL_2.0-lightgrey)
-![AppVeyor](https://img.shields.io/badge/Version-v1.2.7-lightgrey)
+![AppVeyor](https://img.shields.io/badge/Version-ComingSoon-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Interface-Tabler-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightred)
