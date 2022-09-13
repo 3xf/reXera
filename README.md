@@ -2,7 +2,7 @@
     <img src="cover.png">
 </div>
 
-## 👀 What is reXera ?
+## 👀 What is reXera?
 reXera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). reXera currently has a limited number of features which are listed below:
 
 ![AppVeyor](https://img.shields.io/badge/Licence-GPL_2.0-lightgrey)
