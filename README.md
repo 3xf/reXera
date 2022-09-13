@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/default/img/xera.png">
+    <img src="cover.png">
 </div>
 
 ## 👀 What is reXera ?
