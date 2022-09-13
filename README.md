@@ -2,8 +2,8 @@
     <img src="assets/default/img/xera.png">
 </div>
 
-## 👀 What is Xera ?
-Xera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). Xera currently has a limited number of features which are listed below:
+## 👀 What is reXera ?
+reXera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). Xera currently has a limited number of features which are listed below:
 
 ![AppVeyor](https://img.shields.io/badge/Licence-GPL_2.0-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Version-v1.2.7-lightgrey)
@@ -37,10 +37,10 @@ Your server needs to meet the following minimum requirements to run Xera:
 - A valid, trusted SSL certificate.
 
 ### 💾 Installation 
-The installation of Xera is much easier than you think!
-- Download the latest Xera installation file [here](https://github.com/mahtab2003/Xera/releases/latest). 
+The installation of reXera is much easier than you think!
+- Download the latest reXera installation file [here](https://github.com/mahtab2003/Xera/releases/latest). 
 - Extract the file and upload the contents to your web hosting account. 
-- Create a new database for Xera.
+- Create a new database for reXera.
 - Go to ```https://{your.domain}/{xera-directory}/install.php``` and click on the 'Get Started' button.
 - Set your website's ```Website URL```, ```Cookie Prefix```, enable ```CSRF Protection``` and hit the 'Next Step' button.
 - Edit the database credentials and click on the 'Next Step' button (this will automatically import tables and records to the database).
@@ -60,4 +60,4 @@ If you require assistance, please proceed to [our forum](https://fourm.xera.eu.o
 You can also [open an issue here](https://github.com/mahtab2003/Xera/issues/new) if you have discovered a bug or have an issue, although the forum is still the preferred way, especially for feature requests. In any way, please ensure your topic has not been previously discussed, and if it has contribute to that discussion instead of making a new one when you can.
 
 ## ©️ Copyright
-This build is created and maintained by [Mehtab Hassan](https://github.com/mahtab2003). Code released under [the GPL-2.0 license](LICENSE).
+This build is created and maintained by [ChippyTech](https://github.com/chippytech). Code released under [the GPL-2.0 license](LICENSE).
