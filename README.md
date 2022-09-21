@@ -1,14 +1,12 @@
 <div align="center">
-    <img src="assets/default/img/xera.png">
+    <img src="cover.png">
 </div>
 
-#### This build is no longer maintained by the developer.
-
-## 👀 What is Xera ?
-Xera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). Xera currently has a limited number of features which are listed below:
+## 👀 What is reXera?
+reXera is a hosting account and support management system especially designed to work with MOFH (MyOwnFreeHost). reXera currently has a limited number of features which are listed below:
 
 ![AppVeyor](https://img.shields.io/badge/Licence-GPL_2.0-lightgrey)
-![AppVeyor](https://img.shields.io/badge/Version-v1.2.7-lightgrey)
+![AppVeyor](https://img.shields.io/badge/Version-Coming_Soon-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Interface-Tabler-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightred)
@@ -39,10 +37,10 @@ Your server needs to meet the following minimum requirements to run Xera:
 - A valid, trusted SSL certificate.
 
 ### 💾 Installation 
-The installation of Xera is much easier than you think!
-- Download the latest Xera installation file [here](https://github.com/mahtab2003/Xera/releases/latest). 
+The installation of reXera is much easier than you think!
+- Download the latest reXera installation file [here](https://github.com/mahtab2003/Xera/releases/latest). 
 - Extract the file and upload the contents to your web hosting account. 
-- Create a new database for Xera.
+- Create a new database for reXera.
 - Go to ```https://{your.domain}/{xera-directory}/install.php``` and click on the 'Get Started' button.
 - Set your website's ```Website URL```, ```Cookie Prefix```, enable ```CSRF Protection``` and hit the 'Next Step' button.
 - Edit the database credentials and click on the 'Next Step' button (this will automatically import tables and records to the database).
@@ -52,7 +50,7 @@ The installation of Xera is much easier than you think!
 - All done! 
 
 ### 📧 SMTP
-Here are some widely used SMTP services. They have free plans with some limitations, most importantly though, they are compatible with Xera.
+Here are some widely used SMTP services. They have free plans with some limitations, most importantly though, they are compatible with reXera.
 - [Mailgun](https://www.mailgun.com/). (**Important Note**: Mailgun seems to offer only a trial plan for a month, and without adding a credit card you are only authorized to send emails to 5 recipients. As such, you may want to choose another service.)
 - [Mailjet](https://mailjet.com/).
 - [SendGrid](https://sendgrid.com/free/).
@@ -65,4 +63,4 @@ You can also [open an issue here](https://github.com/mahtab2003/Xera/issues/new)
 If you like project Xera please donate [here](https://xera.eu.org/DONATE.md).
 
 ## ©️ Copyright
-This build is created and maintained by [Mehtab Hassan](https://github.com/mahtab2003). Code released under [the GPL-2.0 license](LICENSE).
+This build is created and maintained by [ChippyTech](https://github.com/chippytech). Code released under [the GPL-2.0 license](LICENSE).
