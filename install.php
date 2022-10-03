@@ -29,9 +29,9 @@ if (isset($_GET['step']) and $_GET['step'] == 1) {
 
 <head>
 	<title><?= $title ?></title>
-	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/default/css/tabler.min.css">
-	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/default/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/default/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/css/tabler.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="<?= $base_url ?>assets/css/style.css">
 	<meta name="robots" content="noindex" />
 </head>
 
@@ -40,7 +40,7 @@ if (isset($_GET['step']) and $_GET['step'] == 1) {
 		<div class="container-tight py-4">
 			<div class="text-center mb-4">
 				<a href="." class="navbar-brand navbar-brand-autodark">
-					<img src="<?= $base_url ?>assets/default/img/logo.png" height="36" alt="">
+					<img src="<?= $base_url ?>assets/img/logo.png" height="36" alt="">
 				</a>
 			</div>
 			<div class="card card-md">
@@ -126,8 +126,8 @@ if (isset($_GET['step']) and $_GET['step'] == 1) {
 			<?php unset($_SESSION['msg']) ?>
 		<?php endif ?>
 	</div>
-	<script src="<?= $base_url ?>assets/default/js/jquery.slim.js"></script>
-	<script src="<?= $base_url ?>assets/default/js/tabler.min.js"></script>
+	<script src="<?= $base_url ?>assets/js/jquery.slim.js"></script>
+	<script src="<?= $base_url ?>assets/js/tabler.min.js"></script>
 </body>
 
 </html>
