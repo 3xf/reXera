@@ -9,7 +9,7 @@ reXera is a hosting account and support management system especially designed to
 ![AppVeyor](https://img.shields.io/badge/Version-Coming_Soon-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Interface-Tabler-lightgreen)
-![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightred)
+![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightred)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-PHP,_MySQL,_cUrl-lightred)
 
 ### 🎮 Features
@@ -26,7 +26,7 @@ reXera is a hosting account and support management system especially designed to
 	- SitePro
 	- SMTP
 - Update Manager
-- Multi-langual
+- Multi-lingual
 
 ## 🤸 Getting Started
 
@@ -45,7 +45,7 @@ The installation of reXera is much easier than you think!
 - Set your website's ```Website URL```, ```Cookie Prefix```, enable ```CSRF Protection``` and hit the 'Next Step' button.
 - Edit the database credentials and click on the 'Next Step' button (this will automatically import tables and records to the database).
 - Register an admin account and login to your admin panel. 
-- Replace the logo and favicon located in ```assets/img/``` with your own.
+- Replace the logo and favicon located in ```assets/default/img/``` with your own.
 - Setup SMTP (see below for some services you can use).
 - All done! 
 
@@ -58,6 +58,9 @@ Here are some widely used SMTP services. They have free plans with some limitati
 ### 🤔 Help
 If you require assistance, please proceed to [our forum](https://fourm.xera.eu.org/), where you can find the answers to many questions and also ask your own.  
 You can also [open an issue here](https://github.com/mahtab2003/Xera/issues/new) if you have discovered a bug or have an issue, although the forum is still the preferred way, especially for feature requests. In any way, please ensure your topic has not been previously discussed, and if it has contribute to that discussion instead of making a new one when you can.
+
+### 👍Like Xera?
+If you like project Xera please donate [here](https://xera.eu.org/DONATE.md).
 
 ## ©️ Copyright
 This build is created and maintained by [ChippyTech](https://github.com/chippytech). Code released under [the GPL-2.0 license](LICENSE).
