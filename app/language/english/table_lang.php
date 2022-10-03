@@ -35,12 +35,5 @@ $lang['end_date'] = 'End Date';
 $lang['open_at'] = 'Open at';
 $lang['open_by'] = 'Open by';
 $lang['last_reply'] = 'Last reply';
-$lang['host'] = 'Host';
-$lang['type'] = 'Type';
-$lang['ttl'] = 'TTL';
-$lang['ip'] = 'IP Address';
-$lang['target'] = 'Target';
-$lang['content'] = 'Content';
-$lang['pri'] = 'Preference';
 
 ?>

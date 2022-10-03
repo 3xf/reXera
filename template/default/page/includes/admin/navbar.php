@@ -62,7 +62,7 @@
 								<i class="fa fa-server"></i>
 							</span>
 							<span class="nav-link-title">
-								MOFH Accounts
+								Mofh Accounts
 							</span>
 						</a>
 					</li>
@@ -122,7 +122,7 @@
 								<i class="fa fa-cogs"></i>
 							</span>
 							<span class="nav-link-title">
-								API Settings
+								Api Settings
 							</span>
 						</a>
 					</li>
